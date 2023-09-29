@@ -27,6 +27,8 @@ margin-right: 100px;
 .boton-barra-nav{
 background-color: #ffffff;
 padding: 10px;
+text-decoration: none;
+color: #ededed;
 }
 
 .boton{
