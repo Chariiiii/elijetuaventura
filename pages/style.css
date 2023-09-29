@@ -16,19 +16,21 @@ background-color: #2b2b2b;
     height: 50px;
     width: auto;
     border: 2px;
+    color: white;
 
 }
 .lista-barra-nav li{
 display: inline;
 margin-right: 100px;
+color: white;
 
 
 }
 .boton-barra-nav{
 background-color: #ffffff;
 padding: 10px;
-text-decoration: none;
-color: #ededed;
+color: #ffffff;
+
 }
 
 .boton{
